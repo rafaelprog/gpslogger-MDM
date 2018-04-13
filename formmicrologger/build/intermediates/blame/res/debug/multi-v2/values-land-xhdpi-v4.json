@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\FormmicroApp\\formmicrologger\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land-xhdpi-v4\\values-land-xhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\FormmicroApp\\formmicrologger\\src\\main\\res\\values-land-xhdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "3,12,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "89,374,323",
+                        "endColumns": "55,48,47",
+                        "endOffsets": "140,418,366"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,111,160",
+                        "endColumns": "55,48,47",
+                        "endOffsets": "106,155,203"
+                    }
+                }
+            ]
+        }
+    ]
+}

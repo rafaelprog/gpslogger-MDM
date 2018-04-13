@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\FormmicroApp\\formmicrologger\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\FormmicroApp\\formmicrologger\\src\\main\\res\\values-xhdpi\\integers.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,57",
+                        "endOffsets": "109,167"
+                    },
+                    "to": {
+                        "startLines": "11,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "562,621",
+                        "endColumns": "58,57",
+                        "endOffsets": "616,674"
+                    }
+                },
+                {
+                    "source": "C:\\FormmicroApp\\formmicrologger\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "3,17,15,14,10,9,11,12,7",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "89,728,665,604,428,371,486,544,322",
+                        "endColumns": "55,47,61,60,57,56,57,58,47",
+                        "endOffsets": "140,771,722,660,481,423,539,598,365"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,111,159,221,282,340,397,455,514",
+                        "endColumns": "55,47,61,60,57,56,57,58,47",
+                        "endOffsets": "106,154,216,277,335,392,450,509,557"
+                    }
+                }
+            ]
+        }
+    ]
+}

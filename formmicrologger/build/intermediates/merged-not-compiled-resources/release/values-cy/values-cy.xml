@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Formmicro</string>
+    <string name="hours">awr</string>
+    <string name="minutes">mun</string>
+    <string name="ok">Iawn</string>
+    <string name="sharing_location_only">Lleoliad yn unig</string>
+    <string name="summary_current_filename">Ffeil:</string>
+    <string name="summary_dist">Pellter:</string>
+    <string name="txt_accuracy">Cywirdeb:</string>
+</resources>

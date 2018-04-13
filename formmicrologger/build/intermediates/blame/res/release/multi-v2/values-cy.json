@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\FormmicroApp\\formmicrologger\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-cy\\values-cy.xml",
+            "map": [
+                {
+                    "source": "C:\\FormmicroApp\\formmicrologger\\src\\main\\res\\values-cy\\strings.xml",
+                    "from": {
+                        "startLines": "3,12,11,4,9,8,7,6",
+                        "startColumns": "2,2,2,2,2,2,2,2",
+                        "startOffsets": "85,469,431,130,347,289,241,192",
+                        "endColumns": "44,35,37,33,64,57,47,48",
+                        "endOffsets": "127,502,466,161,409,344,286,238"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,140,180,216,283,343,393",
+                        "endColumns": "46,37,39,35,66,59,49,50",
+                        "endOffsets": "97,135,175,211,278,338,388,439"
+                    }
+                }
+            ]
+        }
+    ]
+}

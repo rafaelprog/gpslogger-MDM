@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="bigview_textsize">80sp</dimen>
+    <dimen name="detailedview_latlong_labelsize">14sp</dimen>
+    <dimen name="detailedview_latlong_textsize">33sp</dimen>
+    <dimen name="simlpeview_grid_iconheight">25dp</dimen>
+    <dimen name="simpleview_grid_iconwidth">25dp</dimen>
+    <dimen name="simpleview_grid_labelwidth">95dp</dimen>
+    <dimen name="simpleview_latlong_textsize">36dp</dimen>
+    <dimen name="view_text_width">200dp</dimen>
+    <integer name="detailedview_label_weight">35</integer>
+    <integer name="detailedview_text_weight">90</integer>
+    <style name="Base.Widget.AppCompat.DrawerArrowToggle" parent="Base.Widget.AppCompat.DrawerArrowToggle.Common">
+          <item name="barLength">18.66dp</item>
+          <item name="gapBetweenBars">3.33dp</item>
+          <item name="drawableSize">24dp</item>
+     </style>
+</resources>

@@ -1,0 +1,94 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\FormmicroApp\\formmicrologger\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Dev\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\f6979c06d11f8192e96f839de47fba11\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,216,331,442,529,645,775,858,938,1034,1144,1256,1359,1470,1577,1679,1838,1937",
+                        "endColumns": "110,114,110,86,115,129,82,79,95,109,111,102,110,106,101,158,98,85",
+                        "endOffsets": "211,326,437,524,640,770,853,933,1029,1139,1251,1354,1465,1572,1674,1833,1932,2018"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,40",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,216,331,442,529,645,775,858,938,1034,1144,1256,1359,1470,1577,1679,1838,5013",
+                        "endColumns": "110,114,110,86,115,129,82,79,95,109,111,102,110,106,101,158,98,85",
+                        "endOffsets": "211,326,437,524,640,770,853,933,1029,1139,1251,1354,1465,1572,1674,1833,1932,5094"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dev\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\f5fed198647e0d1e0dc84068e12b7686\\res\\values-fr-rCA\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "287",
+                        "endColumns": "219",
+                        "endOffsets": "506"
+                    },
+                    "to": {
+                        "startLines": "29",
+                        "startColumns": "4",
+                        "startOffsets": "3259",
+                        "endColumns": "219",
+                        "endOffsets": "3474"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dev\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\ea3980295deb85261f0e8f0c48860eb6\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "41",
+                        "startColumns": "4",
+                        "startOffsets": "5099",
+                        "endColumns": "100",
+                        "endOffsets": "5195"
+                    }
+                },
+                {
+                    "source": "C:\\FormmicroApp\\formmicrologger\\src\\main\\res\\values-fr-rCA\\strings.xml",
+                    "from": {
+                        "startLines": "4,10,3,7",
+                        "startColumns": "2,2,2,2",
+                        "startOffsets": "157,339,85,249",
+                        "endColumns": "44,51,71,40",
+                        "endOffsets": "199,388,154,287"
+                    },
+                    "to": {
+                        "startLines": "19,20,39,42",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1937,1984,4939,5200",
+                        "endColumns": "46,53,73,42",
+                        "endOffsets": "1979,2033,5008,5238"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dev\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\c9313e49fbc248a0d9eb7f8b3f2a984f\\res\\values-fr-rCA\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "285,389,601,729,836,1066,1197,1344,1482,1736,1846,2062,2196,2415,2620,2719,2809",
+                        "endColumns": "103,211,127,106,229,130,146,137,253,109,215,133,218,204,98,89,108",
+                        "endOffsets": "388,600,728,835,1065,1196,1343,1481,1735,1845,2061,2195,2414,2619,2718,2808,2917"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24,25,26,27,28,30,31,32,33,34,35,36,37,38",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2038,2146,2358,2490,2601,2831,2966,3117,3479,3733,3847,4063,4201,4420,4629,4732,4826",
+                        "endColumns": "107,211,131,110,229,134,150,141,253,113,215,137,218,208,102,93,112",
+                        "endOffsets": "2141,2353,2485,2596,2826,2961,3112,3254,3728,3842,4058,4196,4415,4624,4727,4821,4934"
+                    }
+                }
+            ]
+        }
+    ]
+}

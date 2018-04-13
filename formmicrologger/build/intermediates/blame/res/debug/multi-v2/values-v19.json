@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\FormmicroApp\\formmicrologger\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Dev\\.gradle\\caches\\transforms-1\\files-1.1\\materialize-0.5.1.aar\\5f8ca5768e1a3d936a56ac158a8dc785\\res\\values-v19\\values-v19.xml",
+                    "from": {
+                        "startLines": "2,3,6,9,12,15,18",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,279,463,671,859,1023",
+                        "endLines": "2,5,8,11,14,17,20",
+                        "endColumns": "51,12,12,12,12,12,12",
+                        "endOffsets": "102,274,458,666,854,1018,1170"
+                    }
+                }
+            ]
+        }
+    ]
+}

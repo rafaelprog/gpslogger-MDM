@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\FormmicroApp\\formmicrologger\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\FormmicroApp\\formmicrologger\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "3,18,16,15,11,10,12,13,8",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "89,729,666,605,429,372,487,545,323",
+                        "endColumns": "55,47,61,60,57,56,57,58,47",
+                        "endOffsets": "140,772,723,661,482,424,540,599,366"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,111,159,221,282,340,397,455,514",
+                        "endColumns": "55,47,61,60,57,56,57,58,47",
+                        "endOffsets": "106,154,216,277,335,392,450,509,557"
+                    }
+                },
+                {
+                    "source": "C:\\FormmicroApp\\formmicrologger\\src\\main\\res\\values-hdpi\\integers.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,57",
+                        "endOffsets": "109,167"
+                    },
+                    "to": {
+                        "startLines": "11,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "562,621",
+                        "endColumns": "58,57",
+                        "endOffsets": "616,674"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dev\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\f6979c06d11f8192e96f839de47fba11\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "13",
+                        "startColumns": "4",
+                        "startOffsets": "679",
+                        "endLines": "17",
+                        "endColumns": "13",
+                        "endOffsets": "951"
+                    }
+                }
+            ]
+        }
+    ]
+}
